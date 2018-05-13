@@ -1,0 +1,5 @@
+name: NationWar
+main: me.nationwar.PluginMain
+version: 1.0.1
+commands:
+  set:
